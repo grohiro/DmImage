@@ -1,9 +1,9 @@
 {
-    "name": "demouth/dmimage",
+    "name": "grohiro/dmimage",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/demouth/DmImage",
+    "homepage": "https://github.com/grohiro/DmImage",
     "version": "2.0.0",
     "license": "MIT",
     "authors": [
